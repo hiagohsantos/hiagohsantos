@@ -37,3 +37,4 @@
    </a>
 </div>
 
+![Snake animation](https://github.com/hiagohsantos/hiagohsantos/blob/output/github-contribution-grid-snake.svg)
