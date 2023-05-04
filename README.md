@@ -3,7 +3,7 @@
 
 - 📖 Atualmente sou estudante de Eng. Eletrônica e de Telecomunicações - UFU
 - 🌱 Estudando JavaScript e Python
-- 👯 Em busca de estágios na área de desenvolvimento
+- 🔍 Em busca de estágios na área de desenvolvimento
 ##
 <a href="https://github.com/hiagohsantos">
   <img align="center" height= "180em"  src="https://github-readme-stats.vercel.app/api?username=hiagohsantos&show_icons=true&theme=dark&rank_icon=github" />
