@@ -6,7 +6,7 @@
 - 🔍 Em busca de estágios na área de desenvolvimento
 ##
 <a href="https://github.com/hiagohsantos">
-  <img align="center" height= "180em"  src="https://readme-stats.jonas-bernard.dev/api?username=hiagohsantos&show_icons=true&theme=dark&rank_icon=github" />
+  <img align="center" height= "180em"  src="https://github-readme-stats.vercel.app/api?username=hiagohsantos&show_icons=true&theme=dark&rank_icon=github" />
   <img align="center" height= "180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiagohsantos&layout=compact&langs_count=6&theme=dark" />
 </a>
 
