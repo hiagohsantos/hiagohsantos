@@ -37,5 +37,5 @@
    </a>
 </div>
 
-![](https://raw.githubusercontent.com/hiagohsantos/hiagohsantos/output/github-contribution-grid-snake.svg)
+![](https://raw.githubusercontent.com/hiagohsantos/hiagohsantos/output/github-contribution-grid-snake-dark.svg)
 
