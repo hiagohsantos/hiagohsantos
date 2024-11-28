@@ -1,8 +1,8 @@
 ### Olá, eu sou o Hiago! 👋
 
 
-- 📖 Atualmente sou estudante de Eng. Eletrônica e de Telecomunicações - UFU
-- 🌱 Estudando JavaScript e Python
+- 📖Eng. Eletrônico e de Telecomunicações - UFU
+- 🌱 Desenvolvedor FullStack Jr.
   
 ##
 <a href="https://github.com/hiagohsantos">
